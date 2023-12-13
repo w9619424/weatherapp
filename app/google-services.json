@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "942573628556",
+    "project_id": "weather-app-da883",
+    "storage_bucket": "weather-app-da883.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:942573628556:android:a1721679a090fb23335fa9",
+        "android_client_info": {
+          "package_name": "com.example.weatherwonder"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq_zD5BbCkuFlroG7FzQBoCzIwmZwlX28"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
